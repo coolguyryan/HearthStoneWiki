@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.filipjerga.heartstonelib" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>heartStoneLib</name>
-    <description>An awesome Ionic/Cordova app.</description>
-    <author email="hi@ionicframework" href="http://ionicframework.com/">Ionic Framework Team</author>
+<widget id="io.github.coolguyryan.hearthstonewiki" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>HearthStoneWiki</name>
+    <description>Deck Building app for the Hearth Stone card game</description>
+    <author email="hi@ionicframework" href="https://coolguyryan.github.io/">Ryan Hollis</author>
     <content src="index.html" />
     <access origin="*" />
     <allow-navigation href="http://*/*" />

@@ -1,8 +1,8 @@
 {
-  "name": "heartStoneLib",
+  "name": "hearthstonewiki",
   "version": "0.0.1",
-  "author": "Ionic Framework",
-  "homepage": "http://ionicframework.com/",
+  "author": "Ryan Hollis",
+  "homepage": "https://coolguyryan.github.io/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -48,7 +48,7 @@
     "@angular-devkit/build-angular": "~0.7.2",
     "@angular-devkit/core": "~0.7.2",
     "@angular-devkit/schematics": "~0.7.2",
-    "@angular/cli": "~7.3.3",
+    "@angular/cli": "7.3.8",
     "@angular/compiler": "~7.2.0",
     "@angular/compiler-cli": "~7.2.0",
     "@angular/language-service": "~7.2.0",
